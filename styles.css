@@ -1,0 +1,5 @@
+*{margin: 0;padding: 0;
+ box-sizing: border-box;}
+.navbar-brand{color: #6af408!important;}
+.nav-link{color: rgb(83, 216, 243)!important;}
+.nav-link:hover{color: rgb(117, 145, 152)!important;}
